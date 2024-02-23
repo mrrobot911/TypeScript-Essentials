@@ -4,7 +4,7 @@
 
 Here is a collection of badges I earned from completing Microsoft Learn's TypeScript modules:
 
-1. **Getting Started with TypeScript**: [https://learn.microsoft.com/training/achievements/typescript/build-javascript-applications-typescript.svg](https://learn.microsoft.com/api/achievements/share/en-us/mrrobot911-1476/7EWQF9UZ?sharingId=EA2722C5A2E96C81)
+1. **Getting Started with TypeScript**: [![Badge](https://learn.microsoft.com/training/achievements/typescript/build-javascript-applications-typescript.svg)](https://learn.microsoft.com/api/achievements/share/en-us/mrrobot911-1476/7EWQF9UZ?sharingId=EA2722C5A2E96C81)
 2. **Declare Variable Types in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/mrrobot911-1476/N7CAU4HF?sharingId=EA2722C5A2E96C81)
 3. **Implement Interfaces in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/mrrobot911-1476/PT7JQW74?sharingId=EA2722C5A2E96C81)
 4. **Develop Typed Functions in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/mrrobot911-1476/AQWBKU37?sharingId=EA2722C5A2E96C81)

@@ -15,4 +15,11 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 
 ## Reflections
 
-[Add your personal reflections on what you learned in each module and how it contributes to your development skills]
+- In this section, I got acquainted with the basics of TypeScript and apply them in my application development work. I found out that TypeScript is an open source language developed by Microsoft.
+- In this module I learned advantages of declaring typed variables in TypeScript such as primitive types, object types, union and intersection types. This module introduces some of the available types and shows how to associate them with variables.
+- In this module, I figured out and gained practical skills in using interfaces to structure complex data types and provide contract-like usage in my TypeScript code.Interfaces are often the key point of contact between any two pieces of TypeScript code, especially when working with existing JavaScript code or built-in JavaScript objects.
+- In this module I learned that TypeScript adds some new capabilities to the standard JavaScript functions to make them easier to work with. TypeScript simplifies the development of functions and makes them easier to troubleshoot by enabling you to type parameters and return values. 
+- In this module I learned that classes in TypeScript extend the ES6 functionality by adding TypeScript-specific features like type annotations for class members, access modifiers, and the ability to specify required or optional parameters. Another benefit of using TypeScript is that you can use it to develop with classes and then compile them down to JavaScript that works across all major browsers and platforms, as needed.
+- Generics are code templates that you can define and reuse throughout your codebase. Generics in TypeScript provide a way to tell functions, classes, or interfaces what type you want to use when you call it.
+- In this module, I learned the skills of effective integration and use of external libraries in TypeScript projects, solving such common tasks as defining types and importing modules.
+- In this module, I realized that namespaces are a TypeScript-specific way of organizing and categorizing your code, allowing you to group related code together. Namespaces allow you to group variables, functions, interfaces, or classes related to business rules in one namespace and security in another.
